@@ -1,0 +1,16 @@
+
+circle.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+line.link {
+  stroke: #999;
+  stroke-opacity: .6;
+  fill: none;
+}
+
+text {
+	font: 10px "Ubuntu";
+	pointer-events: none;
+}
